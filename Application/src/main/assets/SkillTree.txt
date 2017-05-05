@@ -1,0 +1,113 @@
+{
+No-Knead Bread,Easy white bread,Classic Banana Bread
+No Knead Cinnamon Rolls,Focaccia,French Baguettes
+}
+
+{
+No Knead Cinnamon Rolls,Focaccia,French Baguettes
+Ciabatta,Cinnamon Raisin Bread,Brioche
+}
+
+{
+Peanut butter cups,Chocolate bark,Oreo truffles
+Almond brittle,Caramel candies,Chocolate truffles
+}
+
+{
+Almond brittle,Caramel candies,Chocolate truffles
+Caramel filled truffles,Nougat,Marshmallows
+}
+
+
+{
+Tuna Puff,Sausage Rolls,Apple Turnovers
+Ham and Cheese Puff,Pear Galette
+}
+
+{
+Ham and Cheese Puff,Pear Galette,Mille Feuille
+Eclairs,Ice Cream Puff,Lemon Cream Puff
+}
+
+{
+Pastry Cream,Cream Anglaise,Apple Turnovers
+Mille Feuille
+}
+
+{
+Pastry Cream,Egg Nog,Cream Anglaise
+Custard Bread Pudding,Portugese Egg Tarts
+}
+{
+Apple Turnovers,Pastry Cream,Cream Anglaise
+Sauteed Apples with Custard
+}
+
+{
+Custard Bread Pudding,Portugese Egg Tarts,Sauteed Apples with Custard
+Creme Brulee,Leche Flan,Vanilla Custard Slice
+}
+
+{
+Peanut Butter Cookies,Butter Cookies,Snickerdoodles
+Dutch Apple Pie Cookies,Salted Caramel Molasses Cookies,Soft and Chewy Chocolate Chip Cookies
+}
+
+
+{
+Dutch Apple Pie Cookies,Salted Caramel Molasses Cookies,Soft and Chewy Chocolate Chip Cookies
+Ultimate Chocolate Chip Cookies
+}
+
+{
+Dutch Apple Pie Cookies,Vanilla Custard Slice,Leche Flan
+Lemon Macarons,Chocolate Pistachio Meringues
+}
+
+{
+Easy Cupcakes,Chocolate Cake,Pound Cake
+Irish cream and chocolate cheesecake,Angel Food Cake,Red Velvet Cake
+}
+
+{
+Irish cream and chocolate cheesecake,Chocolate Pistachio Meringues,Sauteed Apples with Custard
+Passionfruit Meringue Cake
+}
+
+{
+Irish cream and chocolate cheesecake,Angel Food Cake,Red Velvet Cake,Leche Flan,Vanilla Custard Slice
+Mango Mousse Cake
+}
+
+{
+Chocolate truffles,Mango Mousse Cake,Creme Brulee,Leche Flan
+Double chocolate mousse entremets
+}
+
+{
+Chocolate Pie,Key Lime Pie,Banoffe Pie
+Apple Pie,Blueberry Pie,Peach Pie
+}
+
+{
+Apple Pie,Blueberry Pie,Peach Pie
+Peanut Butter Pie
+}
+
+{
+Apple Pie,Blueberry Pie,Peach Pie,Irish cream and chocolate cheesecake
+Strawberry Cream Cheese Pie
+}
+
+{
+Apple Pie,Blueberry Pie,Peach Pie,Chocolate Pistachio Meringues
+Lemon Meringue Pie
+}
+
+
+
+
+
+
+
+

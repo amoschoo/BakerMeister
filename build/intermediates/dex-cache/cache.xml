@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Amos/Desktop/My app/MasterBaker/Application/lib/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/Amos/Desktop/My app/MasterBaker/Application/build/intermediates/pre-dexed/debug/okio-1.6.0-47b7f4d6ad2b68c4854e6ff22a4162fea92fa970.jar" />
+    </item>
+    <item
+        jar="/Users/Amos/Desktop/My app/MasterBaker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/Amos/Desktop/My app/MasterBaker/Application/build/intermediates/pre-dexed/debug/classes-2312dcefd4589a10f22db4292f7e69e28e14f379.jar" />
+    </item>
+    <item
+        jar="/Users/Amos/Desktop/My app/MasterBaker/Application/lib/okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Users/Amos/Desktop/My app/MasterBaker/Application/build/intermediates/pre-dexed/debug/okhttp-2.5.0-603b2dd37d7aa0e4d6a0299d7036f5fc47aae16d.jar" />
+    </item>
+    <item
+        jar="/Users/Amos/Desktop/My app/MasterBaker/Application/lib/engine.io-client-0.6.2.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="939f90d47c800626d5b0a4e7f89f98b3dde61dc6">
+        <dex dex="/Users/Amos/Desktop/My app/MasterBaker/Application/build/intermediates/pre-dexed/debug/engine.io-client-0.6.2-206109967e93084aab88436610f39530cfdf9beb.jar" />
+    </item>
+    <item
+        jar="/Users/Amos/Desktop/My app/MasterBaker/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/Amos/Desktop/My app/MasterBaker/Application/build/intermediates/pre-dexed/debug/classes-7841ddd8d6a18cb11a3e2d4b62d1babfb77d2a55.jar" />
+    </item>
+    <item
+        jar="/Users/Amos/Desktop/My app/MasterBaker/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="5d4bccb885c8a89d066ecb6c4addb553a99a79a2">
+        <dex dex="/Users/Amos/Desktop/My app/MasterBaker/Application/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-e8857d449569b508be3a4ee76417aa96962ecc4a.jar" />
+    </item>
+    <item
+        jar="/Users/Amos/Desktop/My app/MasterBaker/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="/Users/Amos/Desktop/My app/MasterBaker/Application/build/intermediates/pre-dexed/debug/classes-dfe9820501d44626e9458f233bf59e0e3025781e.jar" />
+    </item>
+    <item
+        jar="/Users/Amos/Desktop/My app/MasterBaker/Application/lib/socket.io-client-0.6.2.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="31fb4bf50b62daadee5e94f39679812ad8a9ae00">
+        <dex dex="/Users/Amos/Desktop/My app/MasterBaker/Application/build/intermediates/pre-dexed/debug/socket.io-client-0.6.2-8bc6e06316f52c25b297d8405c8a0d95dea1274f.jar" />
+    </item>
+    <item
+        jar="/Users/Amos/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/Amos/Desktop/My app/MasterBaker/Application/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-42254b6bb7acc26fcaf35a5e6aa6133aefddb0bc.jar" />
+    </item>
+    <item
+        jar="/Users/Amos/Desktop/My app/MasterBaker/Application/lib/okhttp-ws-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="0e9753b7dcae5deca92e871c5c759067070b07bc">
+        <dex dex="/Users/Amos/Desktop/My app/MasterBaker/Application/build/intermediates/pre-dexed/debug/okhttp-ws-2.5.0-36d49b0ce4ea367b5606394d4044bb4860c2bf7f.jar" />
+    </item>
+    <item
+        jar="/Users/Amos/Desktop/My app/MasterBaker/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/Amos/Desktop/My app/MasterBaker/Application/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-aeb968b82ba426885de6b5e700cfe4b85a7a9481.jar" />
+    </item>
+    <item
+        jar="/Users/Amos/Desktop/My app/MasterBaker/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="bb0ac3f3ee2d71854501cc28e52cc84a20209b41">
+        <dex dex="/Users/Amos/Desktop/My app/MasterBaker/Application/build/intermediates/pre-dexed/debug/classes-a4b1378a54df9e26352435174cc72748e00938a7.jar" />
+    </item>
+    <item
+        jar="/Users/Amos/Desktop/My app/MasterBaker/Application/lib/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/Amos/Desktop/My app/MasterBaker/Application/build/intermediates/pre-dexed/debug/classes-262bd2068a5a1984d901b001fa1e25e0718d5b50.jar" />
+    </item>
+    <item
+        jar="/Users/Amos/Desktop/My app/MasterBaker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/Amos/Desktop/My app/MasterBaker/Application/build/intermediates/pre-dexed/debug/classes-011cf020a88a1b5942c80795e3f4767fcac771c4.jar" />
+    </item>
+
+</items>

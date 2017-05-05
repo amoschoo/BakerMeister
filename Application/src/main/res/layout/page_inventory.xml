@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <!--android:background="@drawable/background"-->
+
+    <!--<ImageView-->
+        <!--android:layout_marginTop="25dp"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:src="@drawable/shelve"-->
+        <!--android:scaleType="fitXY"/>-->
+    <GridView
+        android:layout_above="@+id/linear"
+        android:layout_marginTop="9dp"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/gridView"
+        android:numColumns="auto_fit"
+        android:columnWidth="90dp"
+        android:horizontalSpacing="20dp"
+        android:verticalSpacing="20dp"
+        android:stretchMode="columnWidth"
+        android:gravity="center">
+    </GridView>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal"
+        android:id="@+id/linear"
+        android:layout_alignParentBottom="true">
+
+        <Spinner
+            android:layout_gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/spinner"
+            android:layout_weight="0.7">
+        </Spinner>
+        <AutoCompleteTextView
+            android:layout_gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/shelfitem"
+            android:layout_weight="0.6" />
+        <Button
+            android:layout_gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/shelfbutton"
+            android:layout_weight="0.8"
+            android:text="Update" />
+    </LinearLayout>
+    <!--<Button-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_centerHorizontal="true"-->
+        <!--android:layout_centerVertical="true"-->
+        <!--android:text="Possible Recipes"-->
+        <!--android:id="@+id/possiblebtn"/>-->
+
+
+</RelativeLayout>
